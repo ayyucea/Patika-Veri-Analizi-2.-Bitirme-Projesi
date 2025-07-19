@@ -1,0 +1,1 @@
+# Patika-Veri-Analizi-2.-Bitirme-Projesi
