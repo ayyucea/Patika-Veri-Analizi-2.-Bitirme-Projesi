@@ -1,3 +1,5 @@
+5. hafta 2. odevde de  yanlislikla bitirme projesi baglanti linki koydugum icin buraya yonlendiriyor  5. hafta icin dogru link https://github.com/ayyucea/Patika-Veri-Analizi-Hafta5-.git
+
 # Patika-Veri-Analizi-2.-Bitirme-Projesi
 
 Dosya boyutu büyük olduğu için Drive bağlantısını paylaşıyorum 
